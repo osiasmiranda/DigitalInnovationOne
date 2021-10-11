@@ -1,0 +1,7 @@
+@media screen and (max-width: 610px) {
+  .botao {
+    margin-top: 5px;
+    width: 120px;
+    font-size: 75%;
+  }
+}
